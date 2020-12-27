@@ -1,0 +1,9 @@
+{
+    "extension": ["js"],
+    "file": "setup.features.js",
+    "spec": "src/api/features/tests/*.spec.js",
+    "timeout": 60000,
+    "color": true,
+    "ui": "bdd",
+    "reporter": "min"
+  }
