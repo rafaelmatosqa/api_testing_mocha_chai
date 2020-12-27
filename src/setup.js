@@ -8,6 +8,10 @@ before(async function() {
 let promise = new Promise(resolve => {
     console.log('Preparing ...');
     const startApplication = async () => {
+       
+        
+        const chai = require('chai');
+      
         
         resolve();
     };

@@ -1,7 +1,7 @@
 {
     "extension": ["js"],
-    "file": "setup.features.js",
-    "spec": "src/api/features/tests/*.spec.js",
+    "file": "src/setup.js",
+    "spec": "src/api/features/createPet/tests/**/*.spec.js",
     "timeout": 60000,
     "color": true,
     "ui": "bdd",
